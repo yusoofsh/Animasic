@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Animasic"
+rootProject.name = "animasic"
 include(":modern")
 include(":traditional")
